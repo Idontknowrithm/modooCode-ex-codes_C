@@ -1,4 +1,4 @@
-//printf Çü½ÄÀº ¹«¾ùÀÎ°¡?
+//printf Ã‡Ã¼Â½Ã„Ã€Âº Â¹Â«Â¾Ã¹Ã€ÃŽÂ°Â¡?
 #include <stdio.h>
 int main() {
 	float a = 3.141592f;
